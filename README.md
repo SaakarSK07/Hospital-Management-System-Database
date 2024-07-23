@@ -7,10 +7,10 @@ This project entails the creation of a comprehensive hospital management system 
 **Key Components**
 
 1. Database Design and Implementation
-Created the database based on a detailed survey of hospital operations and requirements.
-Designed an Entity-Relationship (ER) model and relational schema to represent the hospital's data structure accurately.
-Implemented the database using SQL, ensuring data integrity and efficiency.
+- Created the database based on a detailed survey of hospital operations and requirements.
+- Designed an Entity-Relationship (ER) model and relational schema to represent the hospital's data structure accurately.
+- Implemented the database using SQL, ensuring data integrity and efficiency.
 
 2. Data Wrangling and Analysis
-Performed data wrangling to clean and prepare the data for analysis.
-Utilized advanced SQL queries to extract meaningful insights from the database.
+- Performed data wrangling to clean and prepare the data for analysis.
+- Utilized advanced SQL queries to extract meaningful insights from the database.
