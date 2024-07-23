@@ -1,9 +1,11 @@
 # Hospital-Management-System-Database
 
-Project Overview
+**Project Overview:**
 This project entails the creation of a comprehensive hospital management system database designed to streamline and enhance the efficiency of hospital administration. By leveraging advanced SQL queries, the project addresses key data management challenges, ultimately reducing data-related issues and improving productivity by 30%. This repository documents the design, implementation, and analysis of the hospital database, including the answers to critical business questions derived from the data.
 
-Key Components
+
+**Key Components**
+
 1. Database Design and Implementation
 Created the database based on a detailed survey of hospital operations and requirements.
 Designed an Entity-Relationship (ER) model and relational schema to represent the hospital's data structure accurately.
